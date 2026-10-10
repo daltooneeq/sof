@@ -1,0 +1,7 @@
+/home/daltooneeq/Desktop/danil/sof/client/target/debug/deps/unicode_truncate-6b180cdcb489a7d8.d: /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-truncate-2.0.1/src/lib.rs
+
+/home/daltooneeq/Desktop/danil/sof/client/target/debug/deps/libunicode_truncate-6b180cdcb489a7d8.rlib: /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-truncate-2.0.1/src/lib.rs
+
+/home/daltooneeq/Desktop/danil/sof/client/target/debug/deps/libunicode_truncate-6b180cdcb489a7d8.rmeta: /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-truncate-2.0.1/src/lib.rs
+
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-truncate-2.0.1/src/lib.rs:

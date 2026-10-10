@@ -1,0 +1,10 @@
+/home/daltooneeq/Desktop/danil/sof/client/target/debug/deps/ratatui_macros-9be2784b90a4c1cf.d: /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/lib.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/layout.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/line.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/row.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/span.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/text.rs
+
+/home/daltooneeq/Desktop/danil/sof/client/target/debug/deps/libratatui_macros-9be2784b90a4c1cf.rmeta: /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/lib.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/layout.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/line.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/row.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/span.rs /home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/text.rs
+
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/lib.rs:
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/layout.rs:
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/line.rs:
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/row.rs:
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/span.rs:
+/home/daltooneeq/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-macros-0.7.2/src/text.rs:
